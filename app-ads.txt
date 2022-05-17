@@ -1,2 +1,3 @@
 # App-ads.txt
 facebook.com, 453163646619090, RESELLER, c3e20eee3f780d68
+facebook.com, 547283283454456, RESELLER, c3e20eee3f780d68
